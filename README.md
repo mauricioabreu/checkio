@@ -1,4 +1,4 @@
 checkio
 =======
 
-checkio code - please, all the spoilers are here
+checkio code - please, there are some spoilers here
